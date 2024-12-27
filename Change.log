@@ -1,0 +1,16 @@
+web-utility-1.4.10-SNAPSHOT
+
+#7235 update annotations of Dynatree
+
+
+web-utility-1.4.9
+
+#7202 cleaning dependency
+#7202 Update audit and module version 1.0.3 
+#7202 Update guava version to 13.0.1
+#7211 GP: Update Jackson Version
+
+
+web-utility-1.4.8
+
+#7109 JSON mappers added in web-utility to build jstree and dynatree JS framework JSON data.
